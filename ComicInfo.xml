@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo>
+  <Series>Green Lantern</Series>
+  <Number>10</Number>
+  <Count>205</Count>
+  <Title>Prisoner of the Power Ring!</Title>
+  <Volume>2</Volume>
+  <Summary>Green Lantern - Prisoner of the Power Ring
+Green Lantern - The Origin of Green Lantern's Oath</Summary>
+  <Notes>Tagged with ComicTagger 1.6.0a14.dev0 using info from Comic Vine on 2025-07-06 10:50:50. [Issue ID 5687]</Notes>
+  <Publisher>DC Comics</Publisher>
+  <Day>31</Day>
+  <Month>1</Month>
+  <Year>1962</Year>
+  <Web>https://comicvine.gamespot.com/green-lantern-10-prisoner-of-the-power-ring/4000-5687/</Web>
+  <ScanInformation>(Digital)</ScanInformation>
+  <Characters>Carol Ferris,Mrs. Blanding,Beverly Blanding,Tom Kalmaku,Hal Jordan,Will Blanding</Characters>
+  <Locations>Coast City</Locations>
+  <Writer>John Broome</Writer>
+  <Penciller>Gil Kane</Penciller>
+  <Inker>Joe Giella,Murphy Anderson</Inker>
+  <Letterer>Gaspar Saladino</Letterer>
+  <CoverArtist>Gil Kane,Murphy Anderson</CoverArtist>
+  <Editor>Julius Schwartz</Editor>
+  <Pages>
+    <Page Image="0" Type="FrontCover" />
+    <Page Image="1" />
+    <Page Image="2" />
+    <Page Image="3" />
+    <Page Image="4" />
+    <Page Image="5" />
+    <Page Image="6" />
+    <Page Image="7" />
+    <Page Image="8" />
+    <Page Image="9" />
+    <Page Image="10" />
+    <Page Image="11" />
+    <Page Image="12" />
+    <Page Image="13" />
+    <Page Image="14" />
+    <Page Image="15" />
+    <Page Image="16" />
+    <Page Image="17" />
+    <Page Image="18" />
+    <Page Image="19" />
+    <Page Image="20" />
+    <Page Image="21" />
+    <Page Image="22" />
+    <Page Image="23" />
+    <Page Image="24" />
+    <Page Image="25" />
+  </Pages>
+</ComicInfo>
